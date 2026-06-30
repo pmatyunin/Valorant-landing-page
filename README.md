@@ -31,8 +31,6 @@ The project demonstrates modern layout techniques, smooth hover effects, and CSS
 
 ## 🎥 Preview
 
-![Preview](previewv.gif)
-
 ---
 
 ## 📄 License
