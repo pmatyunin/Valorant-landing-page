@@ -29,10 +29,6 @@ The project demonstrates modern layout techniques, smooth hover effects, and CSS
 
 ---
 
-## 🎥 Preview
-
----
-
 ## 📄 License
 
 This project is created for educational and portfolio purposes.
